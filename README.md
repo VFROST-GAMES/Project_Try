@@ -15,7 +15,7 @@
 
 
 <!-- PROJECT LOGO -->
-Lentejas con gofio
+Pechurina Con Papas
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
